@@ -1,0 +1,34 @@
+FOLLOW-UP EMAIL DRAFTS  |  as of 09 Sep 2026
+======================================================================
+
+To: Ishaan Verma
+Subject: Action tracker follow-up - 1 item(s) for your attention
+
+Hi Ishaan,
+
+Please can you share a brief update on the following actions:
+
+  - [A-011] Security assessment of shortlisted vendors (BLOCKED, 20% complete) - Vendor has not shared SOC 2 report
+
+If you are blocked or the date needs to move, let me know so it can be escalated.
+
+Thanks,
+COO Office
+
+----------------------------------------------------------------------
+
+To: Rohan Das
+Subject: Action tracker follow-up - 1 item(s) for your attention
+
+Hi Rohan,
+
+Please can you share a brief update on the following actions:
+
+  - [A-003] Compliance review of digital consent flow (BLOCKED, 40% complete) - Awaiting legal opinion
+
+If you are blocked or the date needs to move, let me know so it can be escalated.
+
+Thanks,
+COO Office
+
+----------------------------------------------------------------------
